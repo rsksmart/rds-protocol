@@ -8,8 +8,6 @@ title: "[User-Story]"
 
 ## User-Story ##
 
-## Epic links ##
-
 ## Acceptance criteria ##
 
 ## Requirements ##
